@@ -1,0 +1,8 @@
+MANIFEST			       This list of files
+Makefile.PL                MakeMaker makefile
+
+lib/Math/TotalBuilder.pm   the module itself
+
+t/basics.t                 basic tests
+
+META.yml                   Module meta-data (added by MakeMaker)
